@@ -123,7 +123,13 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+main {
+  width: 100%;
+}
 
+.blue-card {
+  background: linear-gradient(180deg, #6742FF 0%, #342EEA 100%)
+}
 
 
 
